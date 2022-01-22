@@ -1,0 +1,15 @@
+C:\Projetos\MercadoApp\bin\Debug\net6.0\MercadoApp.exe
+C:\Projetos\MercadoApp\bin\Debug\net6.0\MercadoApp.deps.json
+C:\Projetos\MercadoApp\bin\Debug\net6.0\MercadoApp.runtimeconfig.json
+C:\Projetos\MercadoApp\bin\Debug\net6.0\MercadoApp.dll
+C:\Projetos\MercadoApp\bin\Debug\net6.0\ref\MercadoApp.dll
+C:\Projetos\MercadoApp\bin\Debug\net6.0\MercadoApp.pdb
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.csproj.AssemblyReference.cache
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.AssemblyInfoInputs.cache
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.AssemblyInfo.cs
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.csproj.CoreCompileInputs.cache
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.dll
+C:\Projetos\MercadoApp\obj\Debug\net6.0\ref\MercadoApp.dll
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.pdb
+C:\Projetos\MercadoApp\obj\Debug\net6.0\MercadoApp.genruntimeconfig.cache

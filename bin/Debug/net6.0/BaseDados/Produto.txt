@@ -1,0 +1,1 @@
+[{"Id":1,"Nome":"milho","Categoria":3,"Preco":1.00},{"Id":2,"Nome":"feijao","Categoria":3,"Preco":0.99},{"Id":3,"Nome":"cerveja","Categoria":2,"Preco":1.50},{"Id":4,"Nome":"carne","Categoria":1,"Preco":5.56},{"Id":5,"Nome":"arroz","Categoria":2,"Preco":0.99}]
